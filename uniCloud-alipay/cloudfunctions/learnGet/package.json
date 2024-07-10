@@ -1,0 +1,7 @@
+{
+  "name": "leranGet",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

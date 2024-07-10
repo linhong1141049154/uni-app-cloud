@@ -1,0 +1,7 @@
+{
+  "name": "learnUpdate",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
